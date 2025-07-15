@@ -1,7 +1,7 @@
 # Desafio de álgebra linear e inteligência artificial
 ## ALPR: Reconhecimento automático de placas veiculares
 
-img
+![](https://salies.github.io/desafio-alpr/main-img.png)
 
 * **Apresentação inicial**
 * **Dados**
